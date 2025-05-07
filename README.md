@@ -85,7 +85,7 @@ Feel free to fork the repo, make changes, and submit a pull request. Contributio
 
 ## 📄 License
 
-MIT License © [Your Name](https://github.com/yourusername)
+MIT License © [Hrishish Jain](https://github.com/hrishishj)
 
 ---
 
